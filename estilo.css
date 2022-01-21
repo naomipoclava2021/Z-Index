@@ -2,10 +2,11 @@
     padding: 0px;
     margin: 0px;
     font-family: 'Inter', sans-serif;
+    
 }
 
 body {
-    background-color: #ededed;
+    background-color: #d9beff;
 }
 
 .home {
@@ -21,21 +22,42 @@ body {
 .in-flex:first-child {
     flex: 2;
     padding: 25px;
-    background-color: #fff;
+    background-color: #1c1833;
     margin: 20px;
     margin-bottom: 0px;
 }
 
 .in-flex div {
     padding: 25px;
-    background-color: #fff;
+    background-color: #78767c;
     margin: 20px;
 }
 
 img {
-    border: solid red;
+    border: solid #ffdaff;
     flex: 3;
-    width: 100px;
-    padding: 25px;
-    margin: 20px;
+    width: 200px;
+    text-align: center;
+    display:block;
+    margin:auto;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #bc9bfb;
+}
+
+h4 {
+    color:#7d38d4
+}
+
+p, li{
+    color: #fff
+}
+
+b{
+    color:#d1cad5
 }
