@@ -32,3 +32,10 @@ body {
     margin: 20px;
 }
 
+img {
+    border: solid red;
+    flex: 3;
+    width: 100px;
+    padding: 25px;
+    margin: 20px;
+}
